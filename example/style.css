@@ -1,0 +1,9 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #efefef;
+  font-family: sans-serif;
+  font-size: 16px;
+}
