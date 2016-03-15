@@ -2,9 +2,13 @@
   "name": "react-fatigue-webpack-example",
   "version": "1.0.0",
   "description": "Development module structure example using react-fatigue-webpack",
-  "keywords": [],
+  "keywords": [
+    "react",
+    "fatigue",
+    "webpack"
+  ],
   "main": "build/index.js",
-  "author": "Eduardo Rabelo <oieduardorabelo@gmail.com>",
+  "author": "Eduardo Rabelo <oieduardorabelo@gmail.com> (https://github.com/oieduardorabelo)",
   "license": "MIT",
   "devDependencies": {
     "react-fatigue-webpack": "github:oieduardorabelo/react-fatigue-webpack"
